@@ -82,6 +82,7 @@ const mdxComponents = {
 };
 
 // MDX options
+// Cast to any to bypass TypeScript type incompatibility with rehype plugins
 const mdxOptions = {
   mdxOptions: {
     remarkPlugins: [remarkGfm],
@@ -97,7 +98,7 @@ const mdxOptions = {
       ],
     ],
   },
-};
+} as any;
 
 // Generate static params for all post slugs
 export async function generateStaticParams() {
