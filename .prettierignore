@@ -1,0 +1,40 @@
+# Dependencies
+node_modules
+
+# Build output
+.next
+out
+build
+dist
+
+# Cache
+.cache
+.turbo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env*
+!.env.local.example
+
+# Generated files
+public/sitemap.xml
+public/robots.txt
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Package manager
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Documentation (markdown formatting preserved)
+# *.md

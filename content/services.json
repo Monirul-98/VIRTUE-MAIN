@@ -1,0 +1,314 @@
+{
+  "services": [
+    {
+      "slug": "design-drafting",
+      "title": "Design & Drafting",
+      "summary": "Professional CAD engineering and technical drawing services. We prepare DWG/DXF files to Australian Standards.",
+      "icon": "📐",
+      "heroImage": "/images/services/design-drafting.svg",
+      "overview": "Our experienced design team provides comprehensive CAD engineering and drafting services for switchboard and enclosure projects. We work with your specifications to create detailed technical drawings that meet Australian Standards and ensure manufacturing accuracy.",
+      "features": [
+        "AutoCAD and SolidWorks proficiency",
+        "DWG and DXF file preparation",
+        "AS/NZS compliance verification",
+        "3D modeling and visualization",
+        "Bill of materials (BOM) generation",
+        "Engineering review and optimization",
+        "Revision management and version control",
+        "Technical documentation preparation"
+      ],
+      "process": [
+        "Initial consultation and requirements review",
+        "Preliminary design and concept development",
+        "Detailed CAD drafting and modeling",
+        "Client review and approval",
+        "Final drawing package preparation"
+      ],
+      "gallery": [
+        "/images/services/design-1.svg",
+        "/images/services/design-2.svg",
+        "/images/services/design-3.svg",
+        "/images/services/design-4.svg"
+      ],
+      "benefits": [
+        "Reduce manufacturing errors with accurate drawings",
+        "Ensure compliance from the design stage",
+        "Optimize material usage and costs",
+        "Accelerate project timelines"
+      ],
+      "certifications": ["ISO 9001", "AS/NZS Standards"],
+      "deliverables": [
+        "Complete CAD drawing sets (DWG/DXF)",
+        "3D models and renderings",
+        "Bill of materials (BOM)",
+        "Technical specifications",
+        "Compliance documentation"
+      ]
+    },
+    {
+      "slug": "fabrication",
+      "title": "Fabrication",
+      "summary": "State-of-the-art metal fabrication with CNC cutting, bending, and welding. Precision manufacturing for all enclosure types.",
+      "icon": "🔧",
+      "heroImage": "/images/services/fabrication.svg",
+      "overview": "Our advanced fabrication facility is equipped with the latest CNC machinery and staffed by skilled tradespeople. We manufacture switchboards, enclosures, and custom metalwork to exacting standards, ensuring quality and precision in every piece.",
+      "features": [
+        "CNC laser cutting up to 12mm steel",
+        "CNC press brake bending",
+        "TIG and MIG welding",
+        "Precision sheet metal forming",
+        "Stainless steel fabrication",
+        "Aluminum fabrication",
+        "Custom enclosure manufacturing",
+        "Prototype to production runs"
+      ],
+      "process": [
+        "Material selection and procurement",
+        "CNC programming from CAD files",
+        "Precision cutting and forming",
+        "Expert welding and assembly",
+        "Quality inspection and dimensional verification"
+      ],
+      "gallery": [
+        "/images/services/fab-1.svg",
+        "/images/services/fab-2.svg",
+        "/images/services/fab-3.svg",
+        "/images/services/fab-4.svg"
+      ],
+      "benefits": [
+        "In-house fabrication ensures quality control",
+        "Fast turnaround times",
+        "Capability for complex custom work",
+        "Consistent quality across production runs"
+      ],
+      "equipment": [
+        "Trumpf TruLaser 3030 CNC Laser",
+        "Amada HFE 170-4 Press Brake",
+        "Lincoln Electric Welding Systems",
+        "CMM Quality Measurement System"
+      ],
+      "materials": [
+        "Mild Steel",
+        "Stainless Steel 304/316",
+        "Aluminum",
+        "Galvanized Steel"
+      ]
+    },
+    {
+      "slug": "powder-coat",
+      "title": "Powder Coating",
+      "summary": "Professional powder coating in a wide range of colors and finishes. Durable, corrosion-resistant coating for long-lasting protection.",
+      "icon": "🎨",
+      "heroImage": "/images/services/powder-coating.svg",
+      "overview": "Our in-house powder coating facility provides superior finishes that protect your enclosures while enhancing their appearance. We offer a comprehensive color range and finish options, with careful attention to quality and durability.",
+      "features": [
+        "Pre-treatment and surface preparation",
+        "Wide range of RAL and custom colors",
+        "Gloss, semi-gloss, and matte finishes",
+        "Textured finish options",
+        "High-temperature curing ovens",
+        "Even coating thickness control",
+        "Corrosion-resistant formulations",
+        "Environmentally friendly process"
+      ],
+      "process": [
+        "Surface cleaning and degreasing",
+        "Chemical pre-treatment",
+        "Electrostatic powder application",
+        "High-temperature curing (180-200°C)",
+        "Quality inspection and touch-ups"
+      ],
+      "gallery": [
+        "/images/services/powder-1.svg",
+        "/images/services/powder-2.svg",
+        "/images/services/powder-3.svg",
+        "/images/services/powder-4.svg"
+      ],
+      "benefits": [
+        "Superior durability vs. liquid paint",
+        "Excellent corrosion protection",
+        "Environmentally friendly - zero VOCs",
+        "Consistent, professional finish",
+        "Wide color selection",
+        "Cost-effective for large batches"
+      ],
+      "finishOptions": [
+        "Gloss - High shine, easy to clean",
+        "Semi-gloss - Balanced appearance",
+        "Matte - Non-reflective, modern look",
+        "Textured - Enhanced grip and durability"
+      ],
+      "colorStandards": ["RAL Classic", "RAL Design", "Custom color matching"]
+    },
+    {
+      "slug": "assembly-wiring",
+      "title": "Assembly & Wiring",
+      "summary": "Expert electrical assembly by qualified electricians. Complete switchboard population, wiring, and component installation.",
+      "icon": "⚡",
+      "heroImage": "/images/services/assembly-wiring.svg",
+      "overview": "Our qualified electricians handle all aspects of switchboard and enclosure assembly. From component mounting to complex wiring schemes, we ensure every connection meets electrical standards and your specifications.",
+      "features": [
+        "Licensed electrical contractors",
+        "Component sourcing and procurement",
+        "Busbar fabrication and installation",
+        "Cable management and routing",
+        "Terminal block wiring",
+        "Control panel assembly",
+        "Instrumentation installation",
+        "Compliance with AS/NZS 3000"
+      ],
+      "process": [
+        "Review wiring schematics and specifications",
+        "Component layout and mounting",
+        "Busbar preparation and installation",
+        "Systematic wiring per drawings",
+        "Labeling and documentation",
+        "Pre-test verification"
+      ],
+      "gallery": [
+        "/images/services/assembly-1.svg",
+        "/images/services/assembly-2.svg",
+        "/images/services/assembly-3.svg",
+        "/images/services/assembly-4.svg"
+      ],
+      "benefits": [
+        "Qualified, licensed electricians",
+        "Attention to detail and workmanship",
+        "Comprehensive labeling and documentation",
+        "Reduced on-site commissioning time"
+      ],
+      "capabilities": [
+        "Main switchboards (MSB)",
+        "Motor control centers (MCC)",
+        "Distribution boards (DB/MDB)",
+        "Control panels and PLCs",
+        "Metering and monitoring systems",
+        "Variable speed drive (VSD) panels"
+      ],
+      "standards": [
+        "AS/NZS 3000 Wiring Rules",
+        "AS/NZS 3439 Low Voltage Switchgear",
+        "IEC 61439"
+      ]
+    },
+    {
+      "slug": "testing",
+      "title": "IP Rating & NATA Testing",
+      "summary": "Comprehensive electrical testing and IP rating certification. NATA-accredited testing ensures compliance and safety.",
+      "icon": "✓",
+      "heroImage": "/images/services/testing.svg",
+      "overview": "Every switchboard and enclosure we produce undergoes rigorous testing to ensure safety, performance, and compliance. Our testing protocols include electrical safety tests, IP rating verification, and comprehensive quality assurance.",
+      "features": [
+        "Insulation resistance testing",
+        "High voltage (HV) testing",
+        "Continuity and earth testing",
+        "IP rating verification (IP54, IP65, etc.)",
+        "NATA-accredited test reports",
+        "Functional circuit testing",
+        "Temperature rise testing",
+        "Short circuit testing coordination"
+      ],
+      "process": [
+        "Visual inspection and verification",
+        "Electrical safety testing",
+        "IP rating tests (water/dust ingress)",
+        "Functional performance testing",
+        "Documentation and certification"
+      ],
+      "gallery": [
+        "/images/services/testing-1.svg",
+        "/images/services/testing-2.svg",
+        "/images/services/testing-3.svg",
+        "/images/services/testing-4.svg"
+      ],
+      "benefits": [
+        "NATA-accredited testing for assurance",
+        "Identify issues before site delivery",
+        "Comprehensive test documentation",
+        "Reduced liability and risk",
+        "Compliance with insurance requirements"
+      ],
+      "testTypes": [
+        "Insulation Resistance - Megger testing up to 5kV",
+        "High Voltage (Dielectric) - AC/DC withstand testing",
+        "Continuity - Earth continuity verification",
+        "IP Rating - Dust and water ingress protection",
+        "Functional - Circuit and control verification",
+        "Temperature Rise - Thermal performance validation"
+      ],
+      "ipRatings": [
+        "IP54 - Protected against dust and water spray",
+        "IP55 - Protected against dust and water jets",
+        "IP65 - Dust-tight and protected against water jets",
+        "IP66 - Dust-tight and protected against heavy seas",
+        "Custom IP ratings available"
+      ],
+      "certifications": [
+        "NATA Accreditation",
+        "AS/NZS 3439.1",
+        "IEC 61439-1",
+        "IEC 60529 (IP Ratings)"
+      ]
+    },
+    {
+      "slug": "delivery",
+      "title": "Delivery & Commissioning",
+      "summary": "Professional site delivery and commissioning support. On-time delivery across Victoria with installation assistance available.",
+      "icon": "🚚",
+      "heroImage": "/images/services/delivery.svg",
+      "overview": "We understand that on-time delivery is critical to your project schedule. Our logistics team coordinates delivery across Victoria, and our electricians are available for on-site commissioning support to ensure smooth installation.",
+      "features": [
+        "Scheduled delivery coordination",
+        "Professional packaging and protection",
+        "Victoria-wide delivery network",
+        "Crane and hiab services available",
+        "On-site installation support",
+        "Commissioning assistance",
+        "As-built documentation",
+        "Training and handover"
+      ],
+      "process": [
+        "Delivery schedule coordination",
+        "Final quality inspection and packaging",
+        "Transportation to site",
+        "Unloading and positioning",
+        "Optional commissioning support",
+        "Documentation handover"
+      ],
+      "gallery": [
+        "/images/services/delivery-1.svg",
+        "/images/services/delivery-2.svg",
+        "/images/services/delivery-3.svg",
+        "/images/services/delivery-4.svg"
+      ],
+      "benefits": [
+        "98% on-time delivery record",
+        "Professional handling reduces damage risk",
+        "Experienced commissioning support",
+        "Complete documentation package",
+        "Single point of contact"
+      ],
+      "serviceArea": [
+        "Melbourne Metro",
+        "Geelong and Western Victoria",
+        "Gippsland",
+        "Northern Victoria",
+        "Interstate delivery available"
+      ],
+      "deliveryOptions": [
+        "Standard delivery - Scheduled truck delivery",
+        "Crane/Hiab - Heavy or high-level placement",
+        "Express delivery - Expedited for urgent projects",
+        "Interstate freight - Nationwide coverage"
+      ],
+      "commissioningServices": [
+        "Site installation supervision",
+        "Electrical testing and verification",
+        "System energization and testing",
+        "Operator training",
+        "As-built drawing updates",
+        "Maintenance schedule handover"
+      ]
+    }
+  ]
+}

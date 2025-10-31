@@ -1,0 +1,282 @@
+{
+  "projects": [
+    {
+      "slug": "msb-warehouse-logistics",
+      "title": "MSB for Warehouse & Logistics Center",
+      "summary": "2500A Main Switchboard, Form 3b, IP54 - Complete power distribution for 50,000m² facility",
+      "category": "Main Switchboard",
+      "client": "Industrial Logistics Group",
+      "location": "Melbourne, VIC",
+      "completedDate": "2024-03",
+      "heroImage": "/images/projects/msb-warehouse-hero.jpg",
+      "overview": "Design and manufacture of a 2500A Form 3b Main Switchboard for a new warehouse and logistics center. The project required careful coordination with electrical contractors and facility managers to ensure seamless integration with existing infrastructure. The MSB features redundant feeds, comprehensive metering, and space for future expansion.",
+      "challenge": "The facility required 24/7 uptime during installation, necessitating careful planning and staged commissioning to avoid operational disruption.",
+      "solution": "We designed a modular MSB system that could be installed and commissioned in sections, allowing continuous operation of critical warehouse systems throughout the upgrade process.",
+      "specs": [
+        { "label": "Current Rating", "value": "2500A" },
+        { "label": "Form Type", "value": "Form 3b (segregated)" },
+        { "label": "IP Rating", "value": "IP54" },
+        { "label": "Voltage", "value": "400V TN-S" },
+        { "label": "Incoming Supply", "value": "Dual feed with changeover" },
+        { "label": "Outgoing Circuits", "value": "24 x MCCB + 12 x Contactor" },
+        { "label": "Metering", "value": "Multi-function energy meters" },
+        { "label": "Dimensions", "value": "4200H x 3600W x 800D mm" }
+      ],
+      "features": [
+        "Form 3b segregated construction for safety",
+        "Dual incoming feeds with automatic changeover",
+        "Comprehensive energy monitoring system",
+        "Space for 30% future expansion",
+        "Powder coated RAL 7035 light grey",
+        "LED internal lighting",
+        "Full NATA testing and documentation"
+      ],
+      "gallery": [
+        "/images/projects/msb-warehouse-1.jpg",
+        "/images/projects/msb-warehouse-2.jpg",
+        "/images/projects/msb-warehouse-3.jpg",
+        "/images/projects/msb-warehouse-4.jpg",
+        "/images/projects/msb-warehouse-5.jpg",
+        "/images/projects/msb-warehouse-6.jpg"
+      ],
+      "testimonial": {
+        "quote": "VES delivered exactly what we needed, on time and within budget. The modular installation approach meant we never had to shut down operations.",
+        "author": "David Chen",
+        "position": "Facilities Manager"
+      }
+    },
+    {
+      "slug": "mdb-data-center",
+      "title": "Redundant MDB for Data Center",
+      "summary": "Dual 1600A MDBs with N+1 redundancy for critical infrastructure",
+      "category": "Motor Distribution Board",
+      "client": "TechCorp Data Solutions",
+      "location": "Geelong, VIC",
+      "completedDate": "2024-01",
+      "heroImage": "/images/projects/mdb-datacenter-hero.jpg",
+      "overview": "Supply of dual 1600A Motor Distribution Boards with full redundancy for a Tier 3 data center facility. This project required the highest levels of reliability and included comprehensive monitoring, automatic transfer switching, and integration with the facility's SCADA system.",
+      "challenge": "Data center environments demand absolute reliability with zero tolerance for downtime. Every component needed redundancy and the system had to integrate seamlessly with existing infrastructure.",
+      "solution": "We designed a fully redundant dual-MDB system with automatic transfer switching, comprehensive monitoring, and extensive factory testing to ensure reliability before site delivery.",
+      "specs": [
+        { "label": "Current Rating", "value": "2 x 1600A" },
+        { "label": "Form Type", "value": "Form 4 (fully segregated)" },
+        {
+          "label": "IP Rating",
+          "value": "IP42 (indoor controlled environment)"
+        },
+        { "label": "Configuration", "value": "N+1 redundancy with ATS" },
+        { "label": "Monitoring", "value": "Full SCADA integration" },
+        { "label": "Outgoing Circuits", "value": "32 x VSD modules per MDB" },
+        { "label": "Busbar Material", "value": "Copper, silver plated" },
+        { "label": "Testing", "value": "NATA accredited + 48hr burn-in" }
+      ],
+      "features": [
+        "N+1 redundancy configuration",
+        "Automatic transfer switching (ATS)",
+        "Real-time power monitoring and alarming",
+        "SCADA system integration",
+        "Individual VSD compartments for HVAC control",
+        "Hot-swappable components where possible",
+        "Comprehensive factory acceptance testing",
+        "Detailed as-built documentation"
+      ],
+      "gallery": [
+        "/images/projects/mdb-datacenter-1.jpg",
+        "/images/projects/mdb-datacenter-2.jpg",
+        "/images/projects/mdb-datacenter-3.jpg",
+        "/images/projects/mdb-datacenter-4.jpg"
+      ],
+      "testimonial": {
+        "quote": "The level of engineering detail and factory testing gave us complete confidence in the system before it even arrived on site.",
+        "author": "Sarah Williams",
+        "position": "Infrastructure Director"
+      }
+    },
+    {
+      "slug": "custom-mining-enclosures",
+      "title": "Custom Enclosures for Mining Operation",
+      "summary": "Heavy-duty IP66 stainless steel enclosures for harsh mining environment",
+      "category": "Custom Enclosures",
+      "client": "Australian Mining Corp",
+      "location": "Regional Victoria",
+      "completedDate": "2023-11",
+      "heroImage": "/images/projects/mining-enclosures-hero.jpg",
+      "overview": "Design and manufacture of custom IP66 stainless steel enclosures for a mining operation's conveyor system. The project required specialized materials and construction to withstand extreme dust, vibration, and temperature variations typical of mining environments.",
+      "challenge": "Mining environments are extremely harsh with dust, vibration, temperature extremes, and potential for physical impact. Standard enclosures would not survive long-term exposure.",
+      "solution": "We engineered custom 316 stainless steel enclosures with specialized gasket systems, vibration isolation, and thermal management to ensure reliable operation in the harshest conditions.",
+      "specs": [
+        { "label": "Material", "value": "316 Stainless Steel 3mm" },
+        {
+          "label": "IP Rating",
+          "value": "IP66 (dust tight, water jet protection)"
+        },
+        { "label": "Quantity", "value": "18 enclosures" },
+        { "label": "Size Range", "value": "600x400x250 to 1200x800x400mm" },
+        { "label": "Operating Temp", "value": "-10°C to +60°C" },
+        { "label": "Features", "value": "Vibration isolated mounting" },
+        { "label": "Finish", "value": "316SS natural finish" },
+        { "label": "Certification", "value": "IP66 tested and certified" }
+      ],
+      "features": [
+        "316 stainless steel construction for corrosion resistance",
+        "IP66 rated against dust and water ingress",
+        "Double-seal gasket system for reliability",
+        "Vibration isolation mounting system",
+        "Thermal management (vents with filters)",
+        "Heavy-duty hinges and multi-point locking",
+        "Cable glands rated for harsh environment",
+        "Custom internal DIN rail configuration"
+      ],
+      "gallery": [
+        "/images/projects/mining-enclosures-1.jpg",
+        "/images/projects/mining-enclosures-2.jpg",
+        "/images/projects/mining-enclosures-3.jpg",
+        "/images/projects/mining-enclosures-4.jpg",
+        "/images/projects/mining-enclosures-5.jpg"
+      ],
+      "testimonial": {
+        "quote": "These enclosures have performed flawlessly in conditions that destroyed our previous installations. VES really understood our environment.",
+        "author": "Robert Anderson",
+        "position": "Site Manager"
+      }
+    },
+    {
+      "slug": "hospital-upgrade-msb",
+      "title": "Hospital Electrical Upgrade - Critical MSB",
+      "summary": "1200A Form 4 MSB for hospital emergency power system with zero downtime installation",
+      "category": "Main Switchboard",
+      "client": "Metropolitan Health Services",
+      "location": "Melbourne CBD, VIC",
+      "completedDate": "2023-09",
+      "heroImage": "/images/projects/hospital-msb-hero.jpg",
+      "overview": "Replacement of aging Main Switchboard for a major metropolitan hospital's emergency power system. This critical infrastructure project required meticulous planning and out-of-hours installation to ensure continuous operation of life-saving medical equipment.",
+      "challenge": "Hospitals cannot tolerate any power interruption to critical systems. The installation had to be completed in a single overnight window with comprehensive backup plans.",
+      "solution": "Extensive pre-planning, factory testing, and rehearsal enabled a 6-hour installation window. Temporary bypass systems and backup generators ensured continuous power throughout the upgrade.",
+      "specs": [
+        { "label": "Current Rating", "value": "1200A" },
+        { "label": "Form Type", "value": "Form 4 (fully segregated)" },
+        { "label": "IP Rating", "value": "IP42" },
+        { "label": "Application", "value": "Emergency power distribution" },
+        { "label": "Generator Input", "value": "800kVA diesel generator" },
+        { "label": "Mains Input", "value": "1200A with auto changeover" },
+        {
+          "label": "Critical Circuits",
+          "value": "12 x UPS-backed + 8 x Essential"
+        },
+        { "label": "Installation Window", "value": "6 hours (overnight)" }
+      ],
+      "features": [
+        "Form 4 segregated for maximum safety",
+        "Automatic mains-generator changeover",
+        "Priority load shedding system",
+        "Comprehensive alarm and monitoring",
+        "Hospital-grade reliability components",
+        "Parallel generator capability",
+        "Full factory testing before delivery",
+        "Detailed commissioning documentation"
+      ],
+      "gallery": [
+        "/images/projects/hospital-msb-1.jpg",
+        "/images/projects/hospital-msb-2.jpg",
+        "/images/projects/hospital-msb-3.jpg",
+        "/images/projects/hospital-msb-4.jpg"
+      ],
+      "testimonial": {
+        "quote": "The planning and execution were flawless. We never lost power to a single critical system. Outstanding professionalism.",
+        "author": "Dr. Jennifer Martinez",
+        "position": "Operations Director"
+      }
+    },
+    {
+      "slug": "commercial-building-mdb",
+      "title": "Commercial Office Tower - MDB Installation",
+      "summary": "Multiple MDBs across 12 floors with BMS integration for 35,000m² office tower",
+      "category": "Motor Distribution Board",
+      "client": "Commercial Property Group",
+      "location": "Docklands, Melbourne",
+      "completedDate": "2023-07",
+      "heroImage": "/images/projects/commercial-mdb-hero.jpg",
+      "overview": "Supply and installation of 6 Motor Distribution Boards for a new 12-story commercial office tower. Each MDB serves two floors and integrates with the building management system for centralized control of HVAC, lighting, and other building services.",
+      "challenge": "Coordinating delivery and installation across a busy construction site with tight timelines and multiple stakeholders. Each MDB had to be precisely timed to match the construction schedule.",
+      "solution": "We worked closely with the head contractor to stage deliveries and installations. Pre-wired cable looms and detailed installation drawings ensured rapid on-site installation.",
+      "specs": [
+        { "label": "Quantity", "value": "6 MDBs (one per 2 floors)" },
+        { "label": "Current Rating", "value": "630A per MDB" },
+        { "label": "Form Type", "value": "Form 2 (separated busbars)" },
+        { "label": "IP Rating", "value": "IP31 (indoor installation)" },
+        { "label": "BMS Integration", "value": "Modbus TCP/IP" },
+        { "label": "Metering", "value": "Per-floor energy monitoring" },
+        { "label": "Outgoing Circuits", "value": "16-20 circuits per MDB" },
+        { "label": "Finish", "value": "RAL 7035 powder coat" }
+      ],
+      "features": [
+        "Modular design for rapid installation",
+        "BMS integration via Modbus TCP/IP",
+        "Individual floor metering",
+        "VSD control for HVAC systems",
+        "Plug-in MCCBs for serviceability",
+        "LED status indication",
+        "Pre-wired cable looms",
+        "Comprehensive labeling to AS3000"
+      ],
+      "gallery": [
+        "/images/projects/commercial-mdb-1.jpg",
+        "/images/projects/commercial-mdb-2.jpg",
+        "/images/projects/commercial-mdb-3.jpg",
+        "/images/projects/commercial-mdb-4.jpg",
+        "/images/projects/commercial-mdb-5.jpg"
+      ],
+      "testimonial": {
+        "quote": "VES adapted to our fast-paced construction schedule without compromising quality. The BMS integration worked perfectly first time.",
+        "author": "David Thompson",
+        "position": "Project Manager"
+      }
+    },
+    {
+      "slug": "manufacturing-plant-upgrade",
+      "title": "Manufacturing Plant Power Upgrade",
+      "summary": "Complete electrical infrastructure upgrade including MSB, 4x MDB, and custom control panels",
+      "category": "Complete Solution",
+      "client": "Industrial Manufacturing Co.",
+      "location": "Dandenong, VIC",
+      "completedDate": "2023-05",
+      "heroImage": "/images/projects/manufacturing-upgrade-hero.jpg",
+      "overview": "Comprehensive electrical upgrade for a manufacturing facility including new 2000A MSB, four 800A MDBs, and multiple custom control panels for production machinery. This turnkey project encompassed design, manufacture, testing, delivery, and commissioning.",
+      "challenge": "Manufacturing facility needed to maintain production during the upgrade. Staged installation over 8 weekends with detailed rollback plans for each stage.",
+      "solution": "Modular design allowing staged installation. Each weekend installation was planned as an independent unit with rollback capability. Temporary supplies maintained production throughout.",
+      "specs": [
+        { "label": "MSB Rating", "value": "2000A Form 3b" },
+        { "label": "MDB Quantity", "value": "4 x 800A boards" },
+        { "label": "Control Panels", "value": "8 custom VSD panels" },
+        { "label": "Installation Period", "value": "8 weekends" },
+        { "label": "Total Circuits", "value": "120+ outgoing circuits" },
+        { "label": "Project Value", "value": "$450,000" },
+        { "label": "Timeline", "value": "Design to completion: 14 weeks" },
+        { "label": "Downtime", "value": "Zero unplanned downtime" }
+      ],
+      "features": [
+        "Complete turnkey solution",
+        "Staged installation maintaining production",
+        "Energy monitoring across all boards",
+        "VSD panels for motor efficiency",
+        "Form 3b and Form 2 construction mix",
+        "Comprehensive factory testing",
+        "Full as-built documentation",
+        "On-site training provided"
+      ],
+      "gallery": [
+        "/images/projects/manufacturing-upgrade-1.jpg",
+        "/images/projects/manufacturing-upgrade-2.jpg",
+        "/images/projects/manufacturing-upgrade-3.jpg",
+        "/images/projects/manufacturing-upgrade-4.jpg",
+        "/images/projects/manufacturing-upgrade-5.jpg",
+        "/images/projects/manufacturing-upgrade-6.jpg"
+      ],
+      "testimonial": {
+        "quote": "VES handled every aspect of this complex project professionally. Zero downtime and the system has performed flawlessly since installation.",
+        "author": "Michael Chen",
+        "position": "Facilities Manager"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+<svg width="1600" height="1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1456c4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#72abf9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1200" fill="url(#grad3)"/>
+  
+  <!-- Spray Pattern -->
+  <g opacity="0.15">
+    <circle cx="400" cy="200" r="40" fill="white"/>
+    <circle cx="500" cy="250" r="30" fill="white"/>
+    <circle cx="600" cy="180" r="35" fill="white"/>
+    <circle cx="1000" cy="300" r="45" fill="white"/>
+    <circle cx="1200" cy="250" r="30" fill="white"/>
+    <circle cx="800" cy="200" r="40" fill="white"/>
+    <circle cx="1400" cy="280" r="35" fill="white"/>
+  </g>
+  
+  <!-- Spray Gun Icon -->
+  <g transform="translate(700, 450)">
+    <!-- Gun body -->
+    <rect x="0" y="-30" width="200" height="60" fill="white" opacity="0.9" rx="30"/>
+    <rect x="140" y="-50" width="40" height="100" fill="white" opacity="0.9" rx="10"/>
+    <circle cx="170" cy="0" r="60" fill="white" opacity="0.9"/>
+    
+    <!-- Spray particles -->
+    <g fill="white" opacity="0.6">
+      <circle cx="240" cy="-40" r="8"/>
+      <circle cx="260" cy="-20" r="6"/>
+      <circle cx="280" cy="-50" r="10"/>
+      <circle cx="250" cy="10" r="7"/>
+      <circle cx="270" cy="30" r="9"/>
+      <circle cx="290" cy="-10" r="6"/>
+      <circle cx="310" cy="-30" r="8"/>
+      <circle cx="300" cy="20" r="7"/>
+      <circle cx="320" cy="0" r="6"/>
+    </g>
+  </g>
+  
+  <!-- Text -->
+  <text x="800" y="900" font-family="Arial, sans-serif" font-size="72" fill="white" text-anchor="middle" font-weight="bold">POWDER COATING</text>
+  <text x="800" y="980" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle" opacity="0.8">Professional Surface Finishing</text>
+</svg>

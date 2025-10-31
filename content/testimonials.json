@@ -1,0 +1,44 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "content": "Virtue Enclosure Systems delivered our MSB upgrade on time and on budget. Their attention to detail and commitment to quality is exceptional. We've had zero issues since installation.",
+      "author": "Michael Chen",
+      "position": "Facilities Manager",
+      "company": "Industrial Manufacturing Co.",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "content": "Working with VES on our data center power distribution was a pleasure. They understood our redundancy requirements and delivered a solution that exceeded our expectations. Highly recommended.",
+      "author": "Sarah Williams",
+      "position": "Infrastructure Director",
+      "company": "Tech Infrastructure Inc.",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "content": "The team at VES went above and beyond to accommodate our challenging timeline and site conditions. The quality of their work speaks for itself. We'll definitely use them again.",
+      "author": "David Thompson",
+      "position": "Project Manager",
+      "company": "Commercial Property Group",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "content": "As a hospital, we can't afford downtime. VES understood this and planned every detail of our electrical upgrade perfectly. Their professionalism and expertise are outstanding.",
+      "author": "Dr. Jennifer Martinez",
+      "position": "Operations Director",
+      "company": "Metropolitan Health Services",
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "content": "VES provided custom enclosures for our mining operation that have stood up to the harshest conditions. Their engineering team really knows their stuff. Great quality and service.",
+      "author": "Robert Anderson",
+      "position": "Site Manager",
+      "company": "Mining Operations Ltd.",
+      "rating": 5
+    }
+  ]
+}
