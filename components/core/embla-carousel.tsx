@@ -1,9 +1,12 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import useEmblaCarousel, { type EmblaOptionsType } from "embla-carousel-react";
+import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 import { cn } from "@/lib/utils";
+
+// Infer the options type from the hook's parameters to avoid dependency on specific exported type names
+type EmblaOptionsType = Parameters<typeof useEmblaCarousel>[0];
 
 interface EmblaCarouselProps {
   children: React.ReactNode[];
