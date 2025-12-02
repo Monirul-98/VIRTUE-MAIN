@@ -1,15 +1,12 @@
-# robots.txt for Virtue Enclosure Systems
-# https://virtueenclosures.com.au
-
+# *
 User-agent: *
 Allow: /
 Disallow: /api/
-Disallow: /_next/
 Disallow: /admin/
+Disallow: /_next/
 
-# Sitemap location
+# Host
+Host: https://virtueenclosures.com.au
+
+# Sitemaps
 Sitemap: https://virtueenclosures.com.au/sitemap.xml
-
-# Crawl-delay for polite crawling
-Crawl-delay: 1
-
