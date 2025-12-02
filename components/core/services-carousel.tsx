@@ -155,12 +155,12 @@ export default function ServicesCarousel() {
     <div className="w-full">
       <EmblaBase
         loop={true}
-        align="center"
+        align="start"
         showArrows={true}
         showDots={true}
         arrowsPosition="outside"
         className="max-w-7xl mx-auto"
-        slideClassName="md:flex-[0_0_85%] lg:flex-[0_0_75%]"
+        slideClassName="basis-full md:basis-1/2 lg:basis-1/3 flex-shrink-0"
         onSelect={setActiveIndex}
         aria-label="Services carousel"
       >
