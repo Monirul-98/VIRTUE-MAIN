@@ -43,12 +43,14 @@ function ServiceSlide({ title, summary, image, slug, isActive }: ServiceSlidePro
   }, [isActive, isInView]);
 
   return (
-    <Link
-      href={`/services/${slug}`}
+    <div
       ref={ref}
-      className="group block h-full"
+      className="relative h-full overflow-hidden rounded-3xl border border-neutral-200 bg-white shadow-soft transition-all hover:-translate-y-1 hover:shadow-lg hover:border-neutral-300"
     >
-      <div className="relative h-full overflow-hidden rounded-3xl border border-neutral-200 bg-white shadow-soft transition-all hover:-translate-y-1 hover:shadow-lg hover:border-neutral-300">
+      <Link
+        href={`/services/${slug}`}
+        className="group block h-full"
+      >
         {/* Content Section */}
         <div className="relative z-10 flex flex-col justify-between h-full p-8 md:p-10 lg:p-12">
           {/* Text with stagger animation */}
@@ -137,8 +139,8 @@ function ServiceSlide({ title, summary, image, slug, isActive }: ServiceSlidePro
             </div>
           </div>
         </div>
-      </div>
-    </Link>
+      </Link>
+    </div>
   );
 }
 
