@@ -21,7 +21,7 @@ export default function AboutPage() {
             <h1 className="mb-6 text-5xl font-bold md:text-6xl text-white">About Us</h1>
             <p className="max-w-3xl text-xl text-gray-300">
               Leading the industry in custom switchboard manufacturing and
-              electrical enclosure solutions since 1999.
+              electrical enclosure solutions since .
             </p>
           </Reveal>
         </Container>
