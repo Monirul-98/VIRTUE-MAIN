@@ -3,13 +3,12 @@
     {
       "slug": "design-drafting",
       "title": "Design & Drafting",
-      "summary": "Professional CAD engineering and technical drawing services. We prepare DWG/DXF files to Australian Standards.",
+      "summary": "Professional CAD engineering and technical drawing services.",
       "icon": "📐",
       "heroImage": "/images/services/design-drafting.svg",
       "overview": "Our experienced design team provides comprehensive CAD engineering and drafting services for switchboard and enclosure projects. We work with your specifications to create detailed technical drawings that meet Australian Standards and ensure manufacturing accuracy.",
       "features": [
         "AutoCAD and SolidWorks proficiency",
-        "DWG and DXF file preparation",
         "AS/NZS compliance verification",
         "3D modeling and visualization",
         "Bill of materials (BOM) generation",
@@ -38,7 +37,6 @@
       ],
       "certifications": ["ISO 9001", "AS/NZS Standards"],
       "deliverables": [
-        "Complete CAD drawing sets (DWG/DXF)",
         "3D models and renderings",
         "Bill of materials (BOM)",
         "Technical specifications",
@@ -261,17 +259,14 @@
         "Scheduled delivery coordination",
         "Professional packaging and protection",
         "Victoria-wide delivery network",
-        "Crane and hiab services available",
         "On-site installation support",
         "Commissioning assistance",
-        "As-built documentation",
-        "Training and handover"
+        "As-built documentation"
       ],
       "process": [
         "Delivery schedule coordination",
         "Final quality inspection and packaging",
         "Transportation to site",
-        "Unloading and positioning",
         "Optional commissioning support",
         "Documentation handover"
       ],
