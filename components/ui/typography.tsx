@@ -88,7 +88,10 @@ export function Text({
     tiny: "text-tiny",
   };
 
-  const colorClass = muted ? "text-neutral-500" : "text-neutral-600";
+  // Check if className already contains a text color class
+  const hasTextColor = /text-(neutral|gray|slate|zinc|stone|red|orange|amber|yellow|lime|green|emerald|teal|cyan|sky|blue|indigo|violet|purple|fuchsia|pink|rose|white|black)-\d+|text-(white|black|transparent|current)/.test(className);
+  
+  const colorClass = hasTextColor ? "" : (muted ? "text-neutral-500" : "text-neutral-600");
   const Tag = as as React.ElementType;
 
   return (
