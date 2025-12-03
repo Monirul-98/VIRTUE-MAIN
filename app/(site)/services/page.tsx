@@ -25,7 +25,7 @@ export default function ServicesPage() {
             </Heading>
           </FadeY>
           <FadeY delay={0.2}>
-            <Text size="body-lg" className="max-w-3xl text-neutral-300">
+            <Text size="body-lg" className="max-w-3xl text-white">
               End-to-end switchboard manufacturing and enclosure solutions. From
               CAD design to on-site delivery, everything under one roof.
             </Text>
