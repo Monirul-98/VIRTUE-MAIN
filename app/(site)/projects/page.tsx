@@ -31,7 +31,7 @@ export default function ProjectsPage() {
             </Heading>
           </FadeY>
           <FadeY delay={0.2}>
-            <Text size="body-lg" className="max-w-3xl text-neutral-300">
+            <Text size="body-lg" className="max-w-3xl text-gray-300">
               A showcase of our recent switchboard and enclosure installations
               across Victoria. From data centers to manufacturing facilities,
               see how we deliver excellence.

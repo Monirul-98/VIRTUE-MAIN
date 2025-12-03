@@ -102,7 +102,7 @@ export default function ContactPage() {
             </Heading>
           </FadeY>
           <FadeY delay={0.2}>
-            <Text size="body-lg" className="max-w-3xl text-neutral-300">
+            <Text size="body-lg" className="max-w-3xl text-gray-300">
               Have a project in mind? Need expert advice on switchboards or
               enclosures? We're here to help. Fill out the form below or contact
               us directly.

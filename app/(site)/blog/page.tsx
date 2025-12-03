@@ -27,7 +27,7 @@ export default function BlogPage() {
             </Heading>
           </FadeY>
           <FadeY delay={0.2}>
-            <Text size="body-lg" className="max-w-3xl text-neutral-300">
+            <Text size="body-lg" className="max-w-3xl text-gray-300">
               Industry insights, technical expertise, and the latest news from
               Virtue Enclosure Systems. Stay informed about electrical
               infrastructure best practices.
